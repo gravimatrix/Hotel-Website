@@ -1,0 +1,90 @@
+#navbar h1,
+#navbar ul,
+#navbar ul li {
+  float: none;
+  text-align: center;
+}
+
+#navbar ul li a {
+  padding: 5px;
+  border-bottom: #444 dotted 1px;
+}
+
+#home-info {
+  height: 350px;
+}
+
+#home-info-img {
+  float: none;
+  display: none;
+}
+
+#home-info-about {
+  width: 100%;
+}
+
+#home-info-about h2 {
+  margin: 5px 0;
+}
+
+#home-info-about p {
+  padding: 10px 20px;
+  line-height: 1.3rem;
+  text-align: center;
+}
+
+.box {
+  float: none;
+  width: 100%;
+}
+
+#about-hotel {
+  padding-top: 20px;
+  text-align: center;
+}
+
+#about-hotel-text {
+  float: none;
+  width: 100%;
+  text-align: center;
+  line-height: 1.2rem;
+}
+
+#about-hotel-text p {
+  font-size: 0.7rem;
+}
+
+#about-hotel-text h1 {
+  font-size: 1.2rem;
+}
+
+#about-hotel-img {
+  width: 50vw;
+  height: 30vh;
+  border-radius: 50%;
+  margin: 0;
+}
+
+#guest-feedback {
+  text-align: center;
+  height: 60vh;
+}
+
+#guest-feedback h1 {
+  padding: 20px 0 10px 0;
+  font-size: 1.2rem;
+}
+
+.feedback-card {
+  width: 70vw;
+  height: 20vh;
+  margin: 0 auto 20px auto;
+  background: #ffa53f;
+  border-radius: 5px;
+  opacity: 0.8;
+}
+
+.feedback-card p {
+  font-size: 0.5rem;
+  line-height: 1rem;
+}
