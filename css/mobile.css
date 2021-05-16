@@ -88,3 +88,16 @@
   font-size: 0.5rem;
   line-height: 1rem;
 }
+
+#contact-footer div {
+  float: none;
+  width: 100%;
+  text-align: center;
+  background-color: black !important;
+  color: #fff;
+  padding: 20px 10px;
+}
+
+#contact-footer div p {
+  font-size: 0.7rem;
+}

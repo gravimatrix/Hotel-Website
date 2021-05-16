@@ -4,9 +4,16 @@
   box-sizing: border-box;
 }
 
+html {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   line-height: 1.5em;
+  max-width: 100%;
+  overflow-x: hidden;
 }
 
 h2,
